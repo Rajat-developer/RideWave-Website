@@ -7,9 +7,9 @@
     "dev": "nodemon src/server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rajat Sharma",
   "license": "ISC",
-  "description": "",
+  "description": "Creating RideWave Website for booking Rides.",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "cors": "^2.8.5",
